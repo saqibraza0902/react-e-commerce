@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "Name": "Camera",
+      "price": 1290,
+      "quantity": "0",
+      "image": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dmlld3xlbnwwfHwwfHw%3D&w=1000&q=80",
+      "id": 1
+    },
+    {
+      "Name": "Bag",
+      "price": 1290,
+      "quantity": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6VX77zGVd09XnNyCjpJXtrLjMkxZUODUd48gaWSSG3g&s",
+      "id": 2
+    },
+    {
+      "Name": "Water Bottle",
+      "price": 190,
+      "quantity": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzxU6ATcLbS27WyXkxBzoaWZjj7SfgWVfCFW6gVOeDixL6KQD-UbcP1icmkE75Lc8_pis&usqp=CAU",
+      "id": 3
+    },
+    {
+      "Name": "Camera",
+      "price": 2290,
+      "quantity": "0",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-ncY-heISk8kAf3J_MXmEi2Utnl0LsgsfQg&usqp=CAU",
+      "id": "4"
+    }
+  ]
+}
